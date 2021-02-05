@@ -32,4 +32,9 @@ Then I add one more class Binomial which tells us same mean and std deviation by
 
 ## File Descriptions
 
-You can 
+Go to 
+
+## Summary 
+
+So, I hope this description clear my moto. further I would like to say that python does provide functions to calculate each individual not everything though but from my experience for learning purspose I have to calculate some of these term repeatedly so thought and ended up to this package. Let me know if you face any problem or wanna give any suggestions
+
