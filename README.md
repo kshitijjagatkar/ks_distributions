@@ -13,7 +13,7 @@ Created a python package which add two gaussian or binomial distributions
 The code should run with no issues using Python versions >3.6.
 Step: package can be install in usual way
 
-use  "from package_name import class"  in your cmd prompt
+use  "from package_name import class"  in your python cmd prompt
 
 package_name:  ks_distributions
 
