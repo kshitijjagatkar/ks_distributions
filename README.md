@@ -6,7 +6,6 @@ Created a python package which add two gaussian or binomial distributions
 3. Functionalities
 4. File Descriptions
 5. Summary
-6. Licensing, Authors, and Acknowledgements
 
 ## Installation
 
