@@ -5,36 +5,35 @@ Created a python package which add two gaussian or binomial distributions
 2. Project Motivation
 3. Functionalities
 4. File Descriptions
-5. Results
+5. Summary
 6. Licensing, Authors, and Acknowledgements
 
 ## Installation
 
 The code should run with no issues using Python versions >3.6.
-Step: package can be install like usual method
+Step: package can be install in usual way
 
 use  "from package_name import class"  in your cmd prompt
-
 package_name:  ks_distributions
 
 class: 1. Gaussian 2. Binomial
 
-eg. from ks_distributions import Gaussian, Binomial
+eg. *from ks_distributions import Gaussian, Binomial
 
 ## Project Motivation
 
-wanted to create a simple package and upload to Pypi using python oops knowledge.
+Wanted to create a simple python package using OOP knowledge for flexibility calculating various methods.
 
 ## Functionalities
 
-So, Here comes the main part. The main purpose of this is to find the Mean, Standard Deviation of distribution and add them accordingly.
-Then I add one more class Binomial which tells us same mean and std deviation by taking input of (probability, n-events)
+The main purpose of this is to find the Mean, Standard Deviation, probability density function of distribution and how can we add two distributions.
 
 ## File Descriptions
 
-Go to 
+So, very first file you will see is setup.py which is essential for creating a package it has discription of this package. In the "ks-distribution" folder you will
+find main python code for distributions. I have also provided one more README file in the folder containing more information about those files, do check it.
 
 ## Summary 
 
-So, I hope this description clear my moto. further I would like to say that python does provide functions to calculate each individual not everything though but from my experience for learning purspose I have to calculate some of these term repeatedly so thought and ended up to this package. Let me know if you face any problem or wanna give any suggestions
-
+If I would have to put straight then you can calculate mean, std deviation, pdf, pmf of both gaussian and binomial directly from this package with histogram and bar
+futher saying you can add two distributions too. Hope this finds you interesting, If you are doing something related to this then do check this package and let me know if it useful. Feel free to give suggestions if any. 
