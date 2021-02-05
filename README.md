@@ -18,7 +18,7 @@ package_name:  ks_distributions
 
 class: 1. Gaussian 2. Binomial
 
-eg. *from ks_distributions import Gaussian, Binomial
+eg. *from ks_distributions import Gaussian, Binomial*
 
 ## Project Motivation
 
